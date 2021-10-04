@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kadambari
-- 👀 I’m More into Application Development.
+- 👀 I’m More into Web & Mobile Application Development.
 - 🌱 I’m currently learning Cross Platform tools for building applications.
 - 💞️ I love Reading Books and Vibing on Old Bollywood Songs!
 - 📫 How to reach me 
